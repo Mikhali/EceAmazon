@@ -41,8 +41,8 @@
         
         <div style= "background-color : red; position: sticky; top: 0;">
             <a class ="navtext" href="index.html">Home</a>
-            <a class ="navtext" href="selcategorie.html">Categories</a>
-            <a class = "active" href="VenteFlash.html">Vente flash</a>
+            <a class ="active" href="selcategorie.html">Categories</a>
+            <a class ="navtext" href="VenteFlash.html">Vente flash</a>
             <a class ="navtext" href="Vendre.php">Vendre</a>
             <a class ="navtext" href="Compte.html">Votre compte</a>
             <a class ="navtext" href="Panier.php">Panier</a>
