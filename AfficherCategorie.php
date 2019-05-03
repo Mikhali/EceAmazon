@@ -80,8 +80,8 @@ if($result =  mysqli_fetch_assoc( $data )){
         </div>
         
         <div style= "background-color : red; position: sticky; top: 0;">
-            <a class = "active" href="index.php">Home</a>
-            <a class = "navtext" href="selcategorie.php">Categories</a>
+            <a class = "navtext" href="index.php">Home</a>
+            <a class = "active" href="selcategorie.php">Categories</a>
             <a class = "navtext" href="VenteFlash.php">Vente flash</a>
             <a class = "navtext" href="Vendre.php">Vendre</a>
             <a class = "navtext" href="Compte.php">Votre compte</a>
