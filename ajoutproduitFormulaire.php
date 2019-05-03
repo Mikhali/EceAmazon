@@ -85,10 +85,10 @@ $requete="SELECT * FROM vendeur WHERE mail= '$mail'";
         
         
         echo '<div style= "background-color : red; position: sticky; top: 0;">
-            <a class = "active" href="index.php">Home</a>
+            <a class = "navtext" href="index.php">Home</a>
             <a class = "navtext" href="selcategorie.php">Categories</a>
             <a class = "navtext" href="VenteFlash.php">Vente flash</a>
-            <a class = "navtext" href="Vendre.php">Vendre</a>
+            <a class = "active" href="Vendre.php">Vendre</a>
             <a class = "navtext" href="Compte.php">Votre compte</a>
             <a class = "navtext" href="Panier.php">Panier</a>
             <a class = "navtext" href="Admin.php">Admin</a>
